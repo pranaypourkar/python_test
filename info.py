@@ -16,7 +16,7 @@ print "params %s" %mav1.params
 print "target_system %s" %mav1.target_system
 print "target_component %s" %mav1.target_component
 print "source_system %s" %mav1.source_system
-print "source_component %s" %mav1.source_component
+#print "source_component %s" %mav1.source_component
 print "flightmode %s" %mav1.flightmode
 
 print "vehicle_type %s" %mav1.vehicle_type
