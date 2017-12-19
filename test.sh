@@ -1,5 +1,5 @@
 #!/bin/sh
-gnome-terminal -e ls
+sudo gnome-terminal -e ls
 
 ls
 pwd
