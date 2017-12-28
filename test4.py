@@ -153,8 +153,8 @@ if(flag==0):
             print"Reached Destination"
             break 
 
-print" Closing All Windows in 3 minutes "
-time.sleep(180)
+print" Closing All Windows in 2 minutes "
+time.sleep(120)
 os.system('killall gnome-terminal-server')
         
     
